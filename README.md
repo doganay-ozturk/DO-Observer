@@ -23,11 +23,11 @@ A docker image is provided to simplify setup and ensure a consistent build envir
   - **Operating System**: [FreeRTOS](https://www.freertos.org/)
   - **HAL**: [STM32 HAL Libray](https://github.com/STMicroelectronics/stm32f4xx-hal-driver)
   - **Development Tools**
-    - Arch Linux ( [Host OS]((https://archlinux.org/))
+    - Arch Linux ([Host OS](https://archlinux.org/))
     - [Neovim](https://neovim.io/): A modern, extensible Vim-based text editor
     - [Cmake](https://cmake.org/) (Build System)
-    - ARM GCC (Compiler)
-    - OPENOCD (flashing / debugging via SWD)
-    - Docker: Used to containerize the full development environment, ensuring consistency, portability, and easy onboarding for all contributors.
+    - ARM GCC ([Compiler](https://developer.arm.com/downloads/-/gnu-rm))
+    - [OPENOCD](https://openocd.org/) (flashing / debugging via SWD)
+    - [Docker](https://www.docker.com/): Used to containerize the full development environment, ensuring consistency, portability, and easy onboarding for all contributors.
 
 
