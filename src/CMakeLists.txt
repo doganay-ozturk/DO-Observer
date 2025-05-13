@@ -35,7 +35,7 @@ set (MFLOAT_ABI_MIX                   "-mfloat-abi=softfp")
 #######################################################################
 
 ###################### VARIABLES ######################################
-set (PROJECT_NAME             "Source-Code")
+set (PROJECT_NAME             "src")
 set (PROJECT_TYPE             "exe")
 set (LINKER_SCRIPT            "../STM32F407VGTX_FLASH.ld")
 set (MCPU                     "-mcpu=Cortex-M4")
