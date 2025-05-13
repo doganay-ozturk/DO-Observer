@@ -1,6 +1,7 @@
 
 # Directories
-/src/build
+src/build
+src/src.launch
 
 # Prerequisites
 *.d
